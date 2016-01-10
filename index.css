@@ -1,0 +1,67 @@
+    html {
+      height: 100%;
+    }
+    body {
+        width: 800px;
+       height: 100%;
+        font-family:serif;
+       align-content:center;
+    }
+        header { 
+        background: url(http://mikereidphotography.com/seattle,%20sunsets%20and%20miscellaneous/Seattle%20Skyline%20Night%20Reflection%20from%20Alki.jpg);
+        background-size: 800px; 
+        Position: right; 
+        left: 0px; 
+        width: 100%;
+        color: white; 
+        font: bold 20px/45px Helvetica, Sans-Serif; 
+        text-align: right;
+        letter-spacing: -1px;
+            box-shadow: 0 8px 6px -6px black
+    }
+.header {
+    padding-top: 90px;
+    padding-right: 5px;
+}
+    nav {
+        text-align: center;
+    }
+    nav ul {
+        padding: 10px;
+        float: left;
+        border-bottom: 20px;
+        list-style-type: square;
+    }
+    nav ul {
+        float: left;
+    }
+    nav ul a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: black;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:0px;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        color:white;
+        clear: both;
+        display: block;
+    }
